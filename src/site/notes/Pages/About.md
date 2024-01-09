@@ -10,7 +10,7 @@ I am learning the craft of professional counseling, on my way to licensure in No
   
 I have two overlapping specializations: one, for children and teens―especially in school environments, leveraging family and educational systems for a student's wellbeing.  
   
-The second, and more relevant for this site, is [[Posts/Defining the Radical Rogerian\|my approach as a Radical Rogerian.]] Carl Rogers, the father of modern counseling, laid the foundation of what it means to be an interpersonal healer: **Namely, that the healing relationship requires unconditional positive regard, warmth, empathy, and a relentless desire to understand the worldview of the other.**  
+The second, and more relevant for this site, is [[Defining the Radical Rogerian\|my approach as a Radical Rogerian.]] Carl Rogers, the father of modern counseling, laid the foundation of what it means to be an interpersonal healer: **Namely, that the healing relationship requires unconditional positive regard, warmth, empathy, and a relentless desire to understand the worldview of the other.**  
 
 ## Contemplative Hat
 This approach to counseling is complemented and bolstered by my meditative training. I mostly fall into the **Pragmatic Dharma** camp of **Buddhist Modernism,** as the majority of my practice has been cultivating insight a la Ingram, Burbea, and other wonderful/wild/compassionate teachers.  
