@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pages/about/","created":"2024-01-09T11:15:11.870-08:00","updated":"2024-01-09T11:48:22.000-08:00"}
+{"dg-publish":true,"permalink":"/pages/about/","tags":["type/page"],"created":"2024-01-09T11:15:11.870-08:00","updated":"2024-01-11T11:15:52.000-08:00"}
 ---
 
 # About
@@ -15,7 +15,7 @@ The second, and more relevant for this site, is [[Posts/Defining the Radical Rog
 ## Contemplative Hat
 This approach to counseling is complemented and bolstered by my meditative training. I mostly fall into the **Pragmatic Dharma** camp of **Buddhist Modernism,** as the majority of my practice has been cultivating insight a la Ingram, Burbea, and other wonderful/wild/compassionate teachers.  
   
-But my graduate training in the Humanities, coupled with some DP/DR experiences, somewhat broke my spell of infatuation with attainments and progress toward "A Big Goal" such as Enlightenment or Awakening. As I continue to experience [[Reflections on Depersonalization-Derealizationdestabilization due to DP/DR,\|Reflections on Depersonalization-Derealizationdestabilization due to DP/DR,]] practice has shifted and mutated and broadened to much more than simply sitting.  
+But my graduate training in the Humanities, coupled with some DP/DR experiences, somewhat broke my spell of infatuation with attainments and progress toward "A Big Goal" such as Enlightenment or Awakening. As I continue to experience [[Posts/Reflections on Depersonalization-Derealization\|derealization episodes]], practice has shifted and mutated and broadened to much more than simply sitting.  
 
 **In fact, I view my clinical work as the next frontier of contemplative development.**  
 
