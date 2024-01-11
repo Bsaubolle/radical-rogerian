@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/posts/perspective-on-counseling-and-contemplation/","tags":["published","type/posts"],"created":"2024-01-10T07:53:58.300-08:00","updated":"2024-01-11T11:10:36.000-08:00"}
+{"dg-publish":true,"permalink":"/posts/perspective-on-counseling-and-contemplation/","tags":["published","type/posts"],"created":"2024-01-10T07:53:58.300-08:00","updated":"2024-01-11T11:26:02.000-08:00"}
 ---
 
+summary:: 
 ## Perspective on Counseling and Contemplation
 
 ### Introduction: Limits of the paradigm
