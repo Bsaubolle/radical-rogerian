@@ -1,17 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/posts/defining-the-radical-rogerian/","tags":["published","type/posts"],"created":"2024-01-09T12:22:02.690-08:00","updated":"2024-01-11T11:34:46.000-08:00"}
+{"dg-publish":true,"permalink":"/posts/defining-the-radical-rogerian/","tags":["published","type/posts"],"created":"2024-01-09T12:22:02.690-08:00","updated":"2024-01-11T12:17:20.000-08:00"}
 ---
 
 summary:: The relationship is the key intervention. Common factors (e.g., alliance, empathy, coherent and agreed-upon plan, etc.) provide a framework for enhancing practitioner efficacy. 
-# Defining the Radical Rogerian
-*cross-posted [here.](https://radicalrogerian.blogspot.com/2023/12/radical-rogerian-preliminary-definition.html)*
+## Defining the Radical Rogerian
 
-## The ongoing inspiration of Carl Rogers
+### The ongoing inspiration of Carl Rogers
 [Carl Rogers](https://en.wikipedia.org/wiki/Carl_Rogers) argued that the core conditions of counseling are **Empathy** (ability to see the worldview of the other), **Congruence** (ability to be genuine), and **Unconditional Positive Regard** (ability to withhold judgement and provide warmth). 
 
 Through dialogue with classmates and clinical applications of my own personal meditative practices, I have found that Rogers' core conditions are more complete an approach to counseling than clinicians often assume. 
 
-## The humans in the room are the Common Factors to therapeutic success
+### The humans in the room are the Common Factors to therapeutic success
 Especially at the beginning of our careers, we clinicians often feel lost without this intervention or that activity; we crave _some structured thing_ to get us through our sessions. An agenda, an itinerary, helps us to cope with the difficulty of sitting in ambiguity and uncertainty with our clients. Through activity we _feel helpful_, a driving desire for many of us to enter the field in the first place.
 
 Looking at the literature also reveals our professional bias toward finding our "theoretical orientations," planting our flag as adhering to CBT, or as a psychoanalyst. Indeed, a peculiar feature of modern research into therapy is the obsession with intervention and theory as they impact therapeutic outcomes. **Yet time and time again we see that the most predictive variables of growth and success are the Common Factors.** These factors include:
@@ -26,7 +25,7 @@ The literature supporting the Common Factors as most predictive of therapeutic g
 
 > **I firmly believe that all psychotherapeutic interventions should be punted if they interfere, degrade, or otherwise deteriorate my relationship with a client.**
 
-## The relationship is the primary "intervention"
+### The relationship is the primary "intervention"
 I don't dispute the utility of interventions. My concern is that we clinicians are saturated in a professional culture that over-emphasizes niche knowledges of theory and intervention to the detriment of our counseling skills. **We over-emphasize the micro-interventions while neglecting the macro- or meta-intervention of the relationship itself.** Another way to put it: The very act of walking into a counseling office and entering into relationship is the primary intervention. 
 
 Yes, our knowledge of mental health and illness, of personality growth and psychological development, of family systems and relationships, of wellbeing and pathology, of change and stagnation, of diversity and multiplicity of worldview―our training requires a tremendous amount of learning in these and many more areas. And theories offer unique packages that attempt to encapsulate these concerns within certain **temporal** (i.e., present vs past vs future focused), **relational** (e.g., expert or fellow traveler, directive or nondirective), and **conceptual/philosophical/teleological** (e.g., have you suppressed your urge to copulate with your parents, or are you seeking ways to self-actualize?) parameters.[^1] 
