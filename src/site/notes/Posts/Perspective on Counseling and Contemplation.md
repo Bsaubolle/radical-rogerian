@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/posts/perspective-on-counseling-and-contemplation/","tags":["working"],"created":"2024-01-10T07:53:58.300-08:00","updated":"2024-01-11T11:00:44.000-08:00"}
+{"dg-publish":true,"permalink":"/posts/perspective-on-counseling-and-contemplation/","tags":["published","type/posts"],"created":"2024-01-10T07:53:58.300-08:00","updated":"2024-01-11T11:10:36.000-08:00"}
 ---
 
 ## Perspective on Counseling and Contemplation
@@ -43,7 +43,7 @@ We would probably eliminate licensure and comprehensive examinations ([which alr
 
 This is the lifeblood of the connection between counseling and contemplation that animates this blog. 
 ### The contemplative counselor
-My ongoing project is to sketch a [[Pages/Roadmap for Contemplation in Counseling\|roadmap for contemplation in counseling]]. I believe contemplative practices are useful because they:
+My ongoing project is to sketch a [[Pages/Roadmap\|roadmap for contemplation in counseling]]. I believe contemplative practices are useful because they:
 - are a vital source of relief amidst the sometimes immense and inescapable suffering that our clients experience;
 - transfer to concrete, transtheoretical counseling skills (such as empathy, presence, etc.);
 - provide clinicians with potential contemplative, spiritual interventions for their clients, and;
