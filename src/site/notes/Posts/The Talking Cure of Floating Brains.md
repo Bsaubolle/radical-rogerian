@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/posts/the-talking-cure-of-floating-brains/","tags":["to-publish","type/posts"],"created":"2024-01-08T14:01:21.270-08:00","updated":"2024-01-11T12:20:04.000-08:00"}
+{"dg-publish":true,"permalink":"/posts/the-talking-cure-of-floating-brains/","tags":["to-publish","type/posts"],"created":"2024-01-08T14:01:21.270-08:00","updated":"2024-01-11T12:27:12.000-08:00"}
 ---
 
 summary:: _What is the place of citing neuroscience for professional counselors and therapists? Does it truly represent what we do, or is it just the zeitgeist to say how X changes your brain in Y ways?_ Prompted by diving deep into a tiny fraction of a great book, Benjamin E. Caldwell's [_Saving Psychotherapy._]()
@@ -18,6 +18,7 @@ However, throughout one section in his discussion of the pitfalls of our field,�
 ### Change is actually blood flow in the brain
 Caldwell organizes his text around "Tasks," which are general reforms that he thinks will greatly improve the mental health professions. **One of Caldwell's core Tasks is that therapists need to more openly embrace science.** In the process of making this argument, he emphatically states that neuroscience is our most convincing evidence that psychotherapy works:
 
+> [!quote] Neurobiology from Caldwell
 > _"Researchers' understanding of neurobiology now offers overwhelming support for psychotherapy, not just explaining that it works but in explaining how and why it works"_ (128)
 
 **_"How and why it works"_**―a bold statement indeed. He goes on to give examples of how neuroscience proves that psychotherapy "works." Such an example includes labeling emotions, which _"appears to increase activation in the prefrontal cortex, thereby regulating emotional activation in the amygdala"_ (128). Rather than the meaning of the label, the understanding of emotion in the context of another human, what is actually responsible for the change of the entire human-in-the-world is, in fact, the change in brain activity. Or, perhaps closer to this argument, the meaning and change is actually just the blood flow[1] and neuronal activity in the individual brain. **Truly, this section on neuroscience as the therapist's most powerful proof of change is simply a retelling (regurgitating?) of brain regions that are activated or altered in the process and outcomes of therapy.**
@@ -30,6 +31,7 @@ The desire to prove therapy's efficacy with an appeal to neuroscience is not uni
 
 In his chapter entitled, ["Reflections on Indian Buddhist Thought and the Scientific Study of Meditation,"](https://www.blogger.com/u/1/blog/post/edit/7448175482537401591/8822804095598739784#) William Waldron provides a compelling argument that **epistemological diversity necessitates several levels of explanation.** This will become clear shortly. His example excellently explains this point, which I'll cite in full here:
 
+> [!quote] Waldron's example of epistemological diversity
 > _"Why does the sight of potato chips make me salivate and crave them? One potential answer is **evolutionary:** in our evolutionary past, long before 7-11s graced our planet, humans evolved to crave scarce but necessary nutrients. We could also answer that at the molecular level, fat and salt play crucial **biochemical functions** in our metabolism, and our bodies are telling us we need them—now. **Physiologically,** the neurological networks that connect the eyes, the brain, and the salivary glands recurrently subserve this response. **Developmentally,** we have learned through personal experience to experience this sight with the taste of salt and fat… **Which of these "correctly" explains why we salivate? Or rather, are any of them not correct? Does any one of them exclude the others? Can they all ultimately be reduced to a single correct answer?**"_ (95-96).
 
 **Each level represents a different way of knowing and possesses unique explanatory power.** You can know the chemical interactions of potato chips in the body and also the evolutionary traits that drive our behaviors. But how does this help you understand a how an individual human develops a craving for potato chips in their life time?
