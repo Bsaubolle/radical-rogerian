@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/readings/2024-01-10-re-discovering-omnivore/","created":"2024-01-09T11:29:03.450-08:00","updated":"2024-01-10T13:13:38.000-08:00"}
+{"dg-publish":true,"permalink":"/readings/2024-01-10-re-discovering-omnivore/","tags":["published","type/posts/readings"],"created":"2024-01-09T11:29:03.450-08:00","updated":"2024-01-11T11:10:16.000-08:00"}
 ---
 
 ## 2024-01-09: Rediscovering Omnivore
@@ -37,7 +37,7 @@ Yet the natural consequence of such an outlook is to label certain experiences a
 > [!quote] The strong version of the medical model regarding mental disorders
 > *Someone committed to a strong version of the medical model sees validating a diagnosis as understanding its underlying causal structure: **a valid diagnosis rests on a biological process that can be identified by experiment and observation** using the methods of the biological and cognitive sciences.* 
 
-The author closely follows the logic of medical model in psychiatry; the article also features prominent critiques of understandings of mental disorders that reduce them to one explanation or another—even including critiques that the very category of mental pathology should be tossed out. At this juncture, there is a mention of 4e cognition, which is an area of research that motivates [[Posts/Contemplation and Counseling\|my own writing.]] 
+The author closely follows the logic of medical model in psychiatry; the article also features prominent critiques of understandings of mental disorders that reduce them to one explanation or another—even including critiques that the very category of mental pathology should be tossed out. At this juncture, there is a mention of 4e cognition, which is an area of research that motivates [[Posts/Perspective on Counseling and Contemplation\|my own writing.]] 
 
 > [!quote] Embedded, embodied, extended, and enacted cognition
 > *An important development that is avowedly skeptical of the existing biomedical paradigm in psychiatry is the rise of approaches inspired by the 4E movement in philosophy of mind... [T]he 4E movement includes ‘embedded’ theorists who stress **the dependency of minds on environmental scaffolding** (Hutchins 1995) and “embodied” theorists who believe that **bodies or aspects of the wider environment are constitutive of mental states,** and often that **sensorimotor phenomena are constitutive parts of cognition,** rather than just the input and output of cognition.*
