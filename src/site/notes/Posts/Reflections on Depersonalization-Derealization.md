@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/posts/reflections-on-depersonalization-derealization/","tags":["published","type/posts"],"created":"2024-01-08T14:13:04.060-08:00","updated":"2024-01-11T11:10:42.000-08:00"}
+{"dg-publish":true,"permalink":"/posts/reflections-on-depersonalization-derealization/","tags":["published","type/posts"],"created":"2024-01-08T14:13:04.060-08:00","updated":"2024-01-11T11:25:56.000-08:00"}
 ---
 
+summary:: 
 ## Preface
 *cross-posted here: [link](https://radicalrogerian.blogspot.com/2024/01/reflections-on-depersonalizationdereali.html)*
 
