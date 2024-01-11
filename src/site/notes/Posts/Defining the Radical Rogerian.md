@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/posts/defining-the-radical-rogerian/","created":"2024-01-09T12:22:02.690-08:00","updated":"2024-01-09T12:22:18.000-08:00"}
+{"dg-publish":true,"permalink":"/posts/defining-the-radical-rogerian/","tags":["published","type/posts"],"created":"2024-01-09T12:22:02.690-08:00","updated":"2024-01-11T11:10:26.000-08:00"}
 ---
 
 # Defining the Radical Rogerian
