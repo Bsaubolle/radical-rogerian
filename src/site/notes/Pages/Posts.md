@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/pages/posts/","tags":["type/page"],"created":"2024-01-09T11:23:10.810-08:00","updated":"2024-01-11T11:01:58.000-08:00"}
+{"dg-publish":true,"permalink":"/pages/posts/","tags":["type/page"],"created":"2024-01-09T11:23:10.810-08:00","updated":"2024-01-11T11:24:16.000-08:00"}
 ---
 
 ## Posts (chronologically)
-| File                                                                                                        | summary |
-| ----------------------------------------------------------------------------------------------------------- | ------- |
-| [[Posts/Perspective on Counseling and Contemplation\|Perspective on Counseling and Contemplation]]       | \-      |
-| [[Posts/Defining the Radical Rogerian\|Defining the Radical Rogerian]]                                   | \-      |
-| [[Posts/Reflections on Depersonalization-Derealization\|Reflections on Depersonalization-Derealization]] | \-      |
-| [[Posts/Trauma, Self, and Mindfulness\|Trauma, Self, and Mindfulness]]                                   | \-      |
-| [[Posts/The Talking Cure of Floating Brains\|The Talking Cure of Floating Brains]]                       | \-      |
+| File                                                                                                        | Published        | summary                                                                                                                                                                                                                                                                                                            |
+| ----------------------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[Posts/Perspective on Counseling and Contemplation\|Perspective on Counseling and Contemplation]]       | January 11, 2024 | \-                                                                                                                                                                                                                                                                                                                 |
+| [[Posts/Defining the Radical Rogerian\|Defining the Radical Rogerian]]                                   | January 09, 2024 | The relationship is the key intervention. Common factors (e.g., alliance, empathy, coherent and agreed-upon plan, etc.) provide a framework for enhancing practitioner efficacy.                                                                                                                                   |
+| [[Posts/Reflections on Depersonalization-Derealization\|Reflections on Depersonalization-Derealization]] | January 08, 2024 | \-                                                                                                                                                                                                                                                                                                                 |
+| [[Posts/Trauma, Self, and Mindfulness\|Trauma, Self, and Mindfulness]]                                   |                  | musings on how the loss of self that occur in traumatic experiences can interact with the Buddhist idea of not- / non-self ([anatta](https://www.blogger.com/u/1/blog/post/edit/7448175482537401591/5695876508634988498#)).                                                                                        |
+| [[Posts/The Talking Cure of Floating Brains\|The Talking Cure of Floating Brains]]                       |                  | _What is the place of citing neuroscience for professional counselors and therapists? Does it truly represent what we do, or is it just the zeitgeist to say how X changes your brain in Y ways?_ Prompted by diving deep into a tiny fraction of a great book, Benjamin E. Caldwell's [_Saving Psychotherapy._]() |
 
 { .block-language-dataview}
