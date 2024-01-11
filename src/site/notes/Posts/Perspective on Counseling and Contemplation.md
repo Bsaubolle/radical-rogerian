@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/posts/perspective-on-counseling-and-contemplation/","tags":["published","type/posts"],"created":"2024-01-10T07:53:58.300-08:00","updated":"2024-01-11T11:38:10.000-08:00"}
+{"dg-publish":true,"permalink":"/posts/perspective-on-counseling-and-contemplation/","tags":["published","type/posts"],"created":"2024-01-10T07:53:58.300-08:00","updated":"2024-01-11T11:47:30.000-08:00"}
 ---
 
 summary:: Limits of current paradigms, the potential of human experience in counseling and cognition research, and hints of how contemplative practices may aid us in this very human journey.
@@ -44,7 +44,9 @@ We would probably eliminate licensure and comprehensive examinations ([which alr
 
 This is the lifeblood of the connection between counseling and contemplation that animates this blog. 
 ### The contemplative counselor
-My ongoing project is to sketch a [[Pages/Roadmap\|roadmap for contemplation in counseling]]. I believe contemplative practices are useful because they:
+My ongoing project is to sketch a [[Pages/Roadmap\|roadmap for contemplation in counseling]]. This is inspired by the interdisciplinary work being undertaken in the nascent field of [Contemplative Studies, ](https://archive.ph/IH0hy)which encompasses both the [Contemplative Sciences](https://centerforcontemplativeresearch.org/contemplative-science/what-is-contemplative-science/) (including the approach in *The Embodied Mind,* which features Buddhist contemplative practices as methods for cognitive scientists) and also [Contemplative Pedagogy](https://archive.ph/nnNIB). 
+
+For counselors,[^6] I believe contemplative practices are useful because they:
 - are a vital source of relief amidst the sometimes immense and inescapable suffering that our clients experience;
 - transfer to concrete, transtheoretical counseling skills (such as empathy, presence, etc.);
 - provide clinicians with potential contemplative, spiritual interventions for their clients, and;
@@ -58,3 +60,4 @@ This blog is to help me work through these ideas, to interrogate the utility of 
 [^3]: see the article, "[Bruce Wampold on What Actually Makes Us Good Therapists](https://www.psychotherapy.net/interview/bruce-wampold-psychotherapy-effectiveness)" (archive link)
 [^4]: speculation? I must look into it more myself, as I don't think we quite have the technology to scan brains while in active therapy
 [^5]: As a clinician, when are you *ever* stuck with a client, 4 possible diagnoses or courses of action, and no one with whom to consult? However, I would not include law and ethics exams here.
+[^6]: contemplative counseling? need to get on the trademark bandwagon if I'll ever make money
