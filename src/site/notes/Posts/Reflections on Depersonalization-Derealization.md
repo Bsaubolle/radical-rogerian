@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/posts/reflections-on-depersonalization-derealization/","tags":["published","type/posts"],"created":"2024-01-12T07:27:53.933-08:00","updated":"2024-01-12T10:25:18.535-08:00"}
+{"dg-publish":true,"permalink":"/posts/reflections-on-depersonalization-derealization/","tags":["published","type/posts"],"created":"2024-01-12T07:27:53.933-08:00","updated":"2024-01-12T10:26:03.487-08:00"}
 ---
 
 > [!aside|right +++++]
@@ -64,6 +64,8 @@ At this vantage point, many of my behaviorist and materialist assumptions of con
 There is so much more to this story, and yet it's important for my past self that I say this: ==Anxiety and rage are part of the game in systems that disrespect and dehumanize individuals.== Avoiding these emotions requires monasticism. But if you want to change systems to respect the integrity of the human―including your own humanity―you must find ways to navigate these worlds. **Sitting is one way to bolster your resources to enter the arena, but it is far from sufficient.**
 
 So, was the DPDR that I experienced a result of "incorrect" practice? Of being enmeshed in dehumanizing systems? Of my "trauma" resurfacing in a broken container? All of the above? And with the multiple potential causes in mind, what is my response?
+
+## Backlinks
 
 | File                                                                                   | Summary |
 | -------------------------------------------------------------------------------------- | ------- |
