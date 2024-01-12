@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pages/about/","tags":["type/page"],"created":"2024-01-12T07:27:54.705-08:00","updated":"2024-01-12T10:00:28.844-08:00"}
+{"dg-publish":true,"permalink":"/pages/about/","tags":["type/page"],"created":"2024-01-12T07:27:54.705-08:00","updated":"2024-01-12T10:02:21.033-08:00"}
 ---
 
 # About
@@ -22,7 +22,7 @@ At the ==bottom of the page,== you currently[2] have an additional view: "Backli
 
 In the future, I will probably create posts on [[Personal Knowledge Management Systems\|Personal Knowledge Management Systems]], or PKMS. The tools we use really *do* change the ways we think―as in the [[4e\|extended mind thesis]] proposed by cognitive scientists and philosophers of consciousness like [David Chalmers](https://en.wikipedia.org/wiki/David_Chalmers#Philosophy_of_mind). 
 
-## Me as Clinician & Human
+## Me as a Human
 ### Clinician Hat
 I am learning the craft of professional counseling, on my way to licensure in Northern California.  
   
