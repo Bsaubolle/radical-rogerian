@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/posts/defining-the-radical-rogerian/","tags":["published","type/posts"],"created":"2024-01-12T07:27:54.049-08:00","updated":"2024-01-11T14:25:22.000-08:00"}
+{"dg-publish":true,"permalink":"/posts/defining-the-radical-rogerian/","tags":["type/posts"],"created":"2024-01-12T07:27:54.049-08:00","updated":"2024-01-12T10:32:55.636-08:00"}
 ---
 
 summary:: The relationship is the key intervention. [[Index/Common Factors\|Common Factors]] (e.g., alliance, empathy, coherent and agreed-upon plan, etc.) provide a framework for enhancing practitioner efficacy. 
@@ -28,7 +28,11 @@ The literature supporting the Common Factors as most predictive of therapeutic g
 ### The relationship is the primary "intervention"
 I don't dispute the utility of interventions. My concern is that we clinicians are saturated in a professional culture that over-emphasizes niche knowledges of theory and intervention to the detriment of our counseling skills. **We over-emphasize the micro-interventions while neglecting the macro- or meta-intervention of the relationship itself.** Another way to put it: The very act of walking into a counseling office and entering into relationship is the primary intervention. 
 
-Yes, our knowledge of mental health and illness, of personality growth and psychological development, of family systems and relationships, of wellbeing and pathology, of change and stagnation, of diversity and multiplicity of worldview―our training requires a tremendous amount of learning in these and many more areas. And theories offer unique packages that attempt to encapsulate these concerns within certain **temporal** (i.e., present vs past vs future focused), **relational** (e.g., expert or fellow traveler, directive or nondirective), and **conceptual/philosophical/teleological** (e.g., have you suppressed your urge to copulate with your parents, or are you seeking ways to self-actualize?) parameters.[^1] 
+> [!aside|right +++++]
+> ==[1]:== A good (and incomplete) overview to the philosophy of therapy: "[Philosophy of Therapy](https://www.lesswrong.com/posts/xtzvtJBNofk4FPAtt/philosophy-of-therapy)"
+
+
+Yes, our knowledge of mental health and illness, of personality growth and psychological development, of family systems and relationships, of wellbeing and pathology, of change and stagnation, of diversity and multiplicity of worldview―our training requires a tremendous amount of learning in these and many more areas. And theories offer unique packages that attempt to encapsulate these concerns within certain **temporal** (i.e., present vs past vs future focused), **relational** (e.g., expert or fellow traveler, directive or nondirective), and **conceptual/philosophical/teleological** (e.g., have you suppressed your urge to copulate with your parents, or are you seeking ways to self-actualize?) parameters.***[1]*** 
 
 Yet as we leave behind our masters-level courses, how easy is it to neglect and forget the concrete tools of counseling? These are our skills of relating to another person. The use of body, gesture, and posture. Tone and cadence and pacing of questions, the use of reflections, and the comfort in silence. So much more here. But, the ultimate goal of building rapport (*always* building rapport) rests upon *our ability to modulate our microskills to fit the client in the room.* 
 
@@ -43,5 +47,9 @@ In the (oft-quoted) words of Carl Rogers:
 > The curious paradox is that when I accept myself just as I am, then I can change.
 
 This quote holds a further implication of the therapeutic relationship. Namely, that **the relationship between clinician and client provides a framework for how one ought to relate to oneself.** Such an understanding is embodied in approaches like **Radical Acceptance,** which holds that _tremendous healing and growth occur once we are able to completely accept what is arising right in this moment._ 
+## Backlinks
+| File                      | Summary |
+| ------------------------- | ------- |
+| [[Pages/About\|About]] | \-      |
 
-[^1]: A good (and incomplete) overview to the philosophy of therapy: "[Philosophy of Therapy](https://www.lesswrong.com/posts/xtzvtJBNofk4FPAtt/philosophy-of-therapy)"
+{ .block-language-dataview}
