@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pages/about/","tags":["type/page"],"created":"2024-01-12T07:27:54.705-08:00","updated":"2024-01-12T09:58:28.496-08:00"}
+{"dg-publish":true,"permalink":"/pages/about/","tags":["type/page"],"created":"2024-01-12T07:27:54.705-08:00","updated":"2024-01-12T10:00:28.844-08:00"}
 ---
 
 # About
@@ -9,16 +9,13 @@ On the ==left sidebar,== you will be presented with folders. Currently, here is 
 
 - =="Pages"== - The basic map-style pages you find in many blogs. For the traditional blog-style feel, I recommend [[Pages/Posts\|Posts]] (relatively independent essays) and [[Pages/Reading\|Reading]] (summaries of content I'm consuming, with highlights/extracts). 
 
-  > [!aside|right ++]
->   [1] Maybe fun to just scroll through and sees what tickles your fancy?
-
 - =="Posts" and "Readings"== - these are the folders that contain the entries for both categories. They are organized alphabetically and contain a flat hierarchy (i.e., no subfolders to organize by content).[1]
   
 - =="Index"== - Notes that point to many other notes. They are usually concepts, very high level. 
 
 With time, I will create queries (or lists) that will help organize the pages, posts, and concepts. [[Pages/Reading\|Reading]] is perhaps the most "diary-like," as the entries will be chronological. 
 
-> [!aside|right ++]
+> [!aside|right +++++]
 > [2] as of 2024-01-12
 
 At the ==bottom of the page,== you currently[2] have an additional view: "Backlinks," which is the primary fuel source for this website. Otherwise known as [[Backlinks\|Backlinking]], this view shows all the posts/readings/concepts that link to the current note. This is a central feature in modern note-taking tools, such as [[Obsidian.md\|Obsidian.md]] (my preferred tool, and how I'm publishing this website). 
