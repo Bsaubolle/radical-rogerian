@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pages/about/","tags":["type/page"],"created":"2024-01-12T07:27:54.705-08:00","updated":"2024-01-12T09:50:36.587-08:00"}
+{"dg-publish":true,"permalink":"/pages/about/","tags":["type/page"],"created":"2024-01-12T07:27:54.705-08:00","updated":"2024-01-12T09:51:32.403-08:00"}
 ---
 
 # About
@@ -16,8 +16,8 @@ On the ==left sidebar,== you will be presented with folders. Currently, here is 
 
 With time, I will create queries (or lists) that will help organize the pages, posts, and concepts. [[Pages/Reading\|Reading]] is perhaps the most "diary-like," as the entries will be chronological. 
 
-> [!aside|right +++++]
-> as of 2024-01-12
+> [!aside|right ++]
+> [2] as of 2024-01-12
 
 On the ==right sidebar,== you currently[2] have two views: "On this page," which are headers that organize the document, and "Pages mentioning this page," which is the primary fuel source for this website. Otherwise known as [[Backlinks\|Backlinking]], this view shows all the posts/readings/concepts that link to the current note. This is a central feature in modern note-taking tools, such as [[Obsidian.md\|Obsidian.md]] (my preferred tool, and how I'm publishing this website). 
 
