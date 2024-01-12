@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pages/about/","tags":["type/page"],"created":"2024-01-12T07:27:54.705-08:00","updated":"2024-01-12T09:55:14.544-08:00"}
+{"dg-publish":true,"permalink":"/pages/about/","tags":["type/page"],"created":"2024-01-12T07:27:54.705-08:00","updated":"2024-01-12T09:55:57.580-08:00"}
 ---
 
 # About
@@ -8,8 +8,10 @@
 On the ==left sidebar,== you will be presented with folders. Currently, here is the list of folders in order of utility for navigating this site:
 
 - =="Pages"== - The basic map-style pages you find in many blogs. For the traditional blog-style feel, I recommend [[Pages/Posts\|Posts]] (relatively independent essays) and [[Pages/Reading\|Reading]] (summaries of content I'm consuming, with highlights/extracts). 
+
   > [!aside|right ++]
 >  [1] Maybe fun to just scroll through and sees what tickles your fancy?
+
 - =="Posts" and "Readings"== - these are the folders that contain the entries for both categories. They are organized alphabetically and contain a flat hierarchy (i.e., no subfolders to organize by content).[1]
   
 - =="Index"== - Notes that point to many other notes. They are usually concepts, very high level. 
