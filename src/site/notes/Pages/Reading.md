@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pages/reading/","tags":["type/page"],"created":"2024-01-09T07:58:04.510-08:00","updated":"2024-01-11T11:11:14.000-08:00"}
+{"dg-publish":true,"permalink":"/pages/reading/","tags":["type/page"],"created":"2024-01-12T07:27:53.005-08:00","updated":"2024-01-11T11:11:14.000-08:00"}
 ---
 
 ## Readings
