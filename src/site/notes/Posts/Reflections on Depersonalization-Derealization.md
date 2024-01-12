@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/posts/reflections-on-depersonalization-derealization/","tags":["published","type/posts"],"created":"2024-01-12T07:27:53.933-08:00","updated":"2024-01-12T10:26:03.487-08:00"}
+{"dg-publish":true,"permalink":"/posts/reflections-on-depersonalization-derealization/","tags":["published","type/posts"],"created":"2024-01-12T07:27:53.933-08:00","updated":"2024-01-12T10:34:06.800-08:00"}
 ---
 
 > [!aside|right +++++]
-> ![alien-at-gas-station.jpeg|250](/img/user/Meta/Attachments/alien-at-gas-station.jpeg)
+> ![alien-at-gas-station.jpeg|500](/img/user/Meta/Attachments/alien-at-gas-station.jpeg)
 
 summary:: An intimate look into my experiences with DP/DR, meditation, and burnout.
 ## Reflections on DP/DR
