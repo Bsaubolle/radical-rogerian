@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/pages/about/","tags":["type/page"],"created":"2024-01-09T11:15:11.870-08:00","updated":"2024-01-11T11:15:52.000-08:00"}
+{"dg-publish":true,"permalink":"/pages/about/","tags":["type/page"],"created":"2024-01-09T11:15:11.870-08:00","updated":"2024-01-11T22:18:58.061-08:00"}
 ---
 
 # About
-*cross-posted here: [link](https://radicalrogerian.blogspot.com/p/about.html)*
-
 ## Clinician Hat
 I am learning the craft of professional counseling, on my way to licensure in Northern California.  
   
