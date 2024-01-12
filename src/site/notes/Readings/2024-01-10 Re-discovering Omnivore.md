@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/readings/2024-01-10-re-discovering-omnivore/","tags":["published","type/posts/readings"],"created":"2024-01-09T11:29:03.450-08:00","updated":"2024-01-11T11:10:16.000-08:00"}
+{"dg-publish":true,"permalink":"/readings/2024-01-10-re-discovering-omnivore/","tags":["published","type/posts/readings"],"created":"2024-01-12T07:27:53.625-08:00","updated":"2024-01-11T11:10:16.000-08:00"}
 ---
 
 ## 2024-01-09: Rediscovering Omnivore
