@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pages/welcome/","tags":["gardenEntry"],"created":"2024-01-12T07:27:55.597-08:00","updated":"2024-01-12T10:03:48.429-08:00"}
+{"dg-publish":true,"permalink":"/pages/welcome/","tags":["gardenEntry"],"created":"2024-01-12T07:27:55.597-08:00","updated":"2024-01-12T10:57:16.622-08:00"}
 ---
 
 
@@ -11,6 +11,8 @@ This [[Index/Digital Garden\|Digital Garden]] is the primary place for me to str
 Otherwise, jump into my [[Pages/Reading\|current readings]], or check out some [[Pages/Posts\|recent posts]]. 
 
 Grab a coffee, sit back, and enjoy :)
+
+## Recently Published
 
 | File                                                                                                        | Published        | Summary                                                                                                                                                                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
