@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/posts/trauma-self-and-mindfulness/","tags":["to-publish","type/posts"],"created":"2024-01-08T14:02:22.250-08:00","updated":"2024-01-11T12:33:34.000-08:00"}
+{"dg-publish":true,"permalink":"/posts/trauma-self-and-mindfulness/","tags":["to-publish","type/posts"],"created":"2024-01-08T14:02:22.250-08:00","updated":"2024-01-11T22:27:36.377-08:00"}
 ---
 
 summary:: musings on how the loss of self that occur in traumatic experiences can interact with the Buddhist idea of not- / non-self ([anatta](https://www.blogger.com/u/1/blog/post/edit/7448175482537401591/5695876508634988498#)). 
@@ -29,7 +29,7 @@ Indeed, our modern mindfulness interventions can and do lead to some of the pati
 **Clinically, the loss of self poses a psychological hazard for our clients with histories of extensive and intensive trauma.** We are still learning the many ways in which humans cope with traumatic events. It is well-documented that the number of adverse experiences that one experiences as a child (aka traumatic childhood events, sometimes abbreviated as ACE/s) is associated with significantly worsened health outcomes. The original study that revealed the depths of impairment speaks for itself:
 
 > [!quote] ACE's and health outcomes
-> _"Persons who had experienced four or more categories of childhood exposure, compared to those who had experienced none, had **4 to 12-fold increased health risks for alcoholism, drug abuse, depression, and suicide attempt; a 2- to 4-fold increase in smoking, poor self-rated health, [greater than] 50 sexual intercourse partners, and sexually transmitted disease; and a 1.4- to 1.6-fold increase in physical inactivity and severe obesity.** The number of categories of adverse childhood exposures showed **a graded relationship to the presence of adult diseases including ischemic heart disease, cancer, chronic lung disease, skeletal fractures, and liver disease."**_ [6]
+> _"Persons who had experienced four or more categories of childhood exposure, compared to those who had experienced none, had 4 to 12-fold increased health risks for alcoholism, drug abuse, depression, and suicide attempt; a 2- to 4-fold increase in smoking, poor self-rated health, [greater than] 50 sexual intercourse partners, and sexually transmitted disease; and a 1.4- to 1.6-fold increase in physical inactivity and severe obesity. The number of categories of adverse childhood exposures showed **a graded relationship to the presence of adult diseases including ischemic heart disease, cancer, chronic lung disease, skeletal fractures, and liver disease."**_ [6]
 
 The myriad ways that trauma shows itself in our minds and bodies is complex, and our sciences are still wading into its mysteries. And given the prevalence of trauma in our society, it is imperative for the clinician to thoroughly examine each client, student, and patient for their history with such events.
 
