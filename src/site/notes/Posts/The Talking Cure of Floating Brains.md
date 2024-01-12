@@ -1,14 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/posts/the-talking-cure-of-floating-brains/","tags":["to-publish","type/posts"],"created":"2024-01-08T14:01:21.270-08:00","updated":"2024-01-11T22:54:27.025-08:00"}
+{"dg-publish":true,"permalink":"/posts/the-talking-cure-of-floating-brains/","tags":["to-publish","type/posts"],"created":"2024-01-08T14:01:21.270-08:00","updated":"2024-01-11T22:57:46.861-08:00"}
 ---
 
-summary:: _What is the place of citing neuroscience for professional counselors and therapists? Does it truly represent what we do, or is it just the zeitgeist to say how X changes your brain in Y ways?_ Prompted by diving deep into a tiny fraction of a great book, Benjamin E. Caldwell's [_Saving Psychotherapy._]()
-
-> [!aside|right] text here
->wondering if this works
-
-How far down? 
-
+summary:: _What is the place of citing neuroscience for professional counselors and therapists? Does it truly represent what we do, or is it just the zeitgeist to say how X changes your brain in Y ways?_ Prompted by diving deep into a tiny fraction of a great book, Benjamin E. Caldwell's *Saving Psychotherapy.*
 ## The Talking Cure of Floating Brains
 ### Preface
 **I love mindfulness; I love counseling; I love critiquing both.** At the time of writing (almost a year prior to this post, on 2022-12-30) I was flipping between Benjamin E. Caldwell's _Saving Psychotherapy_―about professional advocacy for therapists―and Evan Thompson's [Why I Am Not a Buddhist](https://www.blogger.com/u/1/blog/post/edit/7448175482537401591/8822804095598739784#)―a critique of [Buddhist Modernism](https://www.blogger.com/u/1/blog/post/edit/7448175482537401591/8822804095598739784#) in its practice and assumptions―all as I was finishing a grueling graduate school program to become a counselor. 
