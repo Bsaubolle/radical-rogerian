@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/posts/reflections-on-depersonalization-derealization/","tags":["published","type/posts"],"created":"2024-01-12T07:27:53.933-08:00","updated":"2024-01-12T10:34:06.800-08:00"}
+{"dg-publish":true,"permalink":"/posts/reflections-on-depersonalization-derealization/","tags":["published","type/posts"],"created":"2024-01-12T07:27:53.933-08:00","updated":"2024-01-12T10:36:11.488-08:00"}
 ---
 
 > [!aside|right +++++]
@@ -43,12 +43,10 @@ With this mental instability (and financial inability to get therapy) as backdro
 
 First, this expectation reveals a deeply-held assumption that my spiritual practice was simply an academic-economic-materialistic endeavor, _that practice was simply a "way to be okay" despite the relatively shitty, immensely stressful conditions of graduate school._ And to some extent this is why I still practice sitting meditation today. The entire premise of Buddhist meditation is understanding how we are intimately complicit in our suffering and struggles. Our habits of mind, along with the causes and conditions of our environment, are always forming and falling apart in ways that cause pain, discomfort, aversion. Yet I landed (and still tend to land) way too far on the behavioristic, atomized individual side. So, practice was simply a way to be okay-enough to continue subjecting myself to intense stress for possible economic gain.
 
-> [!aside|right +++++] 
-> ==[1]== from ["A Critique of Western Buddhism"](https://www.blogger.com/u/1/blog/post/edit/7448175482537401591/3177567063770758543#):
->_"[P]laced in a materialist framework, mindfulness ultimately enhances awareness not merely of “subjective experience” but of “social experience”... ==[M]y “own” experience is but the existential vortex where the social meets me, my body, my awareness, etc. Taking this approach, how can you be sure that your anxiety wasn’t a ping of wisdom?== (The truth often hurts, right? How might we view “anxiety” in light of that fact?)"_
-
-
 Second and related, I was subject to a system which has, over recent years, become increasingly toxic. I did not know this then, but this fact has become crystal clear: _I was swimming in a culture of bullying and gaslighting, a culture which targets students (and other faculty, as I would come to discover)._ But at the time, I was assuming that my initial response to my experience in the group counseling class revealed a deep individual pathology, not something more collective about the program. [Glenn Wallis,](https://www.blogger.com/u/1/blog/post/edit/7448175482537401591/3177567063770758543#) a critical thinker of Western Buddhism, puts it nicely when speaking about the radical, collective implications of mindfulness (my chosen sitting practice) as they impact the individual.***[1]***
+
+> [!quote] ==[1]== from ["A Critique of Western Buddhism"](https://www.blogger.com/u/1/blog/post/edit/7448175482537401591/3177567063770758543#):
+>_"[P]laced in a materialist framework, mindfulness ultimately enhances awareness not merely of “subjective experience” but of “social experience”... ==[M]y “own” experience is but the existential vortex where the social meets me, my body, my awareness, etc. Taking this approach, how can you be sure that your anxiety wasn’t a ping of wisdom?== (The truth often hurts, right? How might we view “anxiety” in light of that fact?)"_
 
 > [!aside|right +++++]
 > ==[2]== 2024: looking back, though, it was more that a scar was ripped open than a wound was still healing. And, there are many more questions I have about the normalcy of whacky meditative experiences
