@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/posts/defining-the-radical-rogerian/","tags":["published","type/posts"],"created":"2024-01-09T12:22:02.690-08:00","updated":"2024-01-11T14:25:22.000-08:00"}
+{"dg-publish":true,"permalink":"/posts/defining-the-radical-rogerian/","tags":["published","type/posts"],"created":"2024-01-12T07:27:54.049-08:00","updated":"2024-01-11T14:25:22.000-08:00"}
 ---
 
 summary:: The relationship is the key intervention. [[Index/Common Factors\|Common Factors]] (e.g., alliance, empathy, coherent and agreed-upon plan, etc.) provide a framework for enhancing practitioner efficacy. 
