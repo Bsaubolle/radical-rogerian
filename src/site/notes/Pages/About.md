@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pages/about/","tags":["type/page"],"created":"2024-01-12T07:27:54.705-08:00","updated":"2024-01-12T09:51:32.403-08:00"}
+{"dg-publish":true,"permalink":"/pages/about/","tags":["type/page"],"created":"2024-01-12T07:27:54.705-08:00","updated":"2024-01-12T09:53:54.408-08:00"}
 ---
 
 # About
@@ -8,7 +8,7 @@
 On the ==left sidebar,== you will be presented with folders. Currently, here is the list of folders in order of utility for navigating this site:
 
 - =="Pages"== - The basic map-style pages you find in many blogs. For the traditional blog-style feel, I recommend [[Pages/Posts\|Posts]] (relatively independent essays) and [[Pages/Reading\|Reading]] (summaries of content I'm consuming, with highlights/extracts). 
-  > [!aside|right +++++]
+  > [!aside|right ++++]
 >  [1] Maybe fun to just scroll through and sees what tickles your fancy?
 - =="Posts" and "Readings"== - these are the folders that contain the entries for both categories. They are organized alphabetically and contain a flat hierarchy (i.e., no subfolders to organize by content).[1]
   
@@ -19,7 +19,7 @@ With time, I will create queries (or lists) that will help organize the pages, p
 > [!aside|right ++]
 > [2] as of 2024-01-12
 
-On the ==right sidebar,== you currently[2] have two views: "On this page," which are headers that organize the document, and "Pages mentioning this page," which is the primary fuel source for this website. Otherwise known as [[Backlinks\|Backlinking]], this view shows all the posts/readings/concepts that link to the current note. This is a central feature in modern note-taking tools, such as [[Obsidian.md\|Obsidian.md]] (my preferred tool, and how I'm publishing this website). 
+At the ==bottom of the page,== you currently[2] have an additional view: "Backlinks," which is the primary fuel source for this website. Otherwise known as [[Backlinks\|Backlinking]], this view shows all the posts/readings/concepts that link to the current note. This is a central feature in modern note-taking tools, such as [[Obsidian.md\|Obsidian.md]] (my preferred tool, and how I'm publishing this website). 
 
 In the future, I will probably create posts on [[Personal Knowledge Management Systems\|Personal Knowledge Management Systems]], or PKMS. The tools we use really *do* change the ways we think―as in the [[4e\|extended mind thesis]] proposed by cognitive scientists and philosophers of consciousness like [David Chalmers](https://en.wikipedia.org/wiki/David_Chalmers#Philosophy_of_mind). 
 
@@ -40,3 +40,10 @@ But my graduate training in the Humanities, coupled with some DP/DR experiences,
 I owe this blooming perspective to the work of **Matthew O'Connell and the Imperfect Buddha,** as it exposed me to new critiques and conceptions of practice that include the immediate, the social, and the local. 
 ## Integration
 The purpose of this site is to integrate these two domains, as I already act with the understanding that they are intimately connected. Thinking through this integration means considering the ideological, ethical, and practical dimensions of the conversation between [[Posts/Perspective on Counseling and Contemplation\|counseling and contemplation.]]  
+
+## Backlinks
+| File                          | summary |
+| ----------------------------- | ------- |
+| [[Pages/Welcome\|Welcome]] | \-      |
+
+{ .block-language-dataview}
