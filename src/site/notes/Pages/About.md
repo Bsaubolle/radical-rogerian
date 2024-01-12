@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pages/about/","tags":["type/page"],"created":"2024-01-12T07:27:54.705-08:00","updated":"2024-01-12T10:02:21.033-08:00"}
+{"dg-publish":true,"permalink":"/pages/about/","tags":["type/page"],"created":"2024-01-12T07:27:54.705-08:00","updated":"2024-01-12T10:30:30.980-08:00"}
 ---
 
 # About
@@ -21,6 +21,9 @@ With time, I will create queries (or lists) that will help organize the pages, p
 At the ==bottom of the page,== you currently[2] have an additional view: "Backlinks," which is the primary fuel source for this website. Otherwise known as [[Backlinks\|Backlinking]], this view shows all the posts/readings/concepts that link to the current note. This is a central feature in modern note-taking tools, such as [[Obsidian.md\|Obsidian.md]] (my preferred tool, and how I'm publishing this website). 
 
 In the future, I will probably create posts on [[Personal Knowledge Management Systems\|Personal Knowledge Management Systems]], or PKMS. The tools we use really *do* change the ways we think―as in the [[4e\|extended mind thesis]] proposed by cognitive scientists and philosophers of consciousness like [David Chalmers](https://en.wikipedia.org/wiki/David_Chalmers#Philosophy_of_mind). 
+
+### Disclaimer
+Unfortunately, if you are viewing the site on mobile, you will miss some *sidenotes* context. Sidenotes are just like Footnotes, except placed in the margin immediately next to the paragraph. Usually, they are trite comments, or fun pictures―you will still be able to read the pages. In some mobile browsers (like Brave), you can toggle to "View Desktop Site." Until I fix this (which I may not be able to), reading it on your laptop or desktop computer is your best bet.
 
 ## Me as a Human
 ### Clinician Hat
