@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/posts/defining-the-radical-rogerian/","tags":["type/posts"],"created":"2024-01-12T07:27:54.049-08:00","updated":"2024-01-12T10:32:55.636-08:00"}
+{"dg-publish":true,"permalink":"/posts/defining-the-radical-rogerian/","tags":["type/posts"],"created":"2024-01-12T07:27:54.049-08:00","updated":"2024-01-13T10:30:43.333-08:00"}
 ---
 
 summary:: The relationship is the key intervention. [[Index/Common Factors\|Common Factors]] (e.g., alliance, empathy, coherent and agreed-upon plan, etc.) provide a framework for enhancing practitioner efficacy. 
@@ -47,7 +47,7 @@ In the (oft-quoted) words of Carl Rogers:
 > The curious paradox is that when I accept myself just as I am, then I can change.
 
 This quote holds a further implication of the therapeutic relationship. Namely, that **the relationship between clinician and client provides a framework for how one ought to relate to oneself.** Such an understanding is embodied in approaches like **Radical Acceptance,** which holds that _tremendous healing and growth occur once we are able to completely accept what is arising right in this moment._ 
-## Backlinks
+## Referenced In:
 | File                      | Summary |
 | ------------------------- | ------- |
 | [[Pages/About\|About]] | \-      |
