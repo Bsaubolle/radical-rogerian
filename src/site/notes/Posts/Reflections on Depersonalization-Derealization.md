@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/posts/reflections-on-depersonalization-derealization/","tags":["published","type/posts"],"created":"2024-01-12T07:27:53.933-08:00","updated":"2024-01-12T10:53:54.266-08:00"}
+{"dg-publish":true,"permalink":"/posts/reflections-on-depersonalization-derealization/","tags":["published","type/posts"],"created":"2024-01-12T07:27:53.933-08:00","updated":"2024-01-13T10:30:03.409-08:00"}
 ---
 
 > [!aside|right +++++]
-> ![alien-at-gas-station.jpeg|500](/img/user/Meta/Attachments/alien-at-gas-station.jpeg)
+> ![alien-at-gas-station.jpeg|500](/img/user/00%20Meta/02%20Attachments/alien-at-gas-station.jpeg)
 
 summary:: An intimate look into my experiences with DP/DR, meditation, and burnout.
 ## Reflections on DP/DR
@@ -37,7 +37,7 @@ Led by a professor with a lacking ethical compass, my disclosure (of experiences
 After this class, after being left vulnerable and raw for a grade, after being made an example for my peers, I experienced nightmares of the original incident (warped in a fun-house mirror, sometimes with classmates as spectators) for the next several months.
 
 > [!aside|right +++++]
-> ![alien-funhouse-mirror.jpeg|500](/img/user/Meta/Attachments/alien-funhouse-mirror.jpeg)
+> ![alien-funhouse-mirror.jpeg|500](/img/user/00%20Meta/02%20Attachments/alien-funhouse-mirror.jpeg)
 ### Another Abduction
 With this mental instability (and financial inability to get therapy) as backdrop, I used a recent winter break to prioritize contemplative practice. Despite my original retreat-induced DP/DR, I had a strong expectation about practice: _"Meditation helped me overcome depression. It can help me overcome this, too."_ At this point, "practice" was conceptualized only as meditation, and as a path to some ultimate, unshakable wellbeing-defined-as-okayness. Part of this was the influence of several meditation teachers I still admire, with terms like ["industrial strength mindfulness"](https://www.blogger.com/u/1/blog/post/edit/7448175482537401591/3177567063770758543#) or ["happiness independent of conditions"](https://www.blogger.com/u/1/blog/post/edit/7448175482537401591/3177567063770758543#) lurking in the background. The operating expectation was that an intensive period of meditation practice would "heal" me enough to jump back into my graduate program. In experience, however, this expectation simply falls apart.
 
@@ -55,7 +55,7 @@ Wallis was not in my intellectual life at this time, so instead I used the psych
 
 ### The socratic alien
 > [!aside|right +++++]
-> ![socratic-alien.jpeg|500](/img/user/Meta/Attachments/socratic-alien.jpeg)
+> ![socratic-alien.jpeg|500](/img/user/00%20Meta/02%20Attachments/socratic-alien.jpeg)
 
 At this vantage point, many of my behaviorist and materialist assumptions of contemplative practice are shifting, albeit quite slowly. Given the cultural waters in which I swim, I am starting to understand how other assumptions―namely, those of the [neoliberal subject](https://www.blogger.com/u/1/blog/post/edit/7448175482537401591/3177567063770758543#)―are baked into my understanding of healing and resilience, of wellbeing and spirituality. This seems like a dim edge, as it's still unclear how I forge this into something resembling "practice." Maybe writing this is enough. So, while I still have the prowess to manipulate my environment and behaviors to "optimize" for certain outcomes, practice feels like an entirely new ballgame, one that focuses on embodiment and socially-directed action. Of course, sitting is still important, too.
 
@@ -63,8 +63,7 @@ There is so much more to this story, and yet it's important for my past self tha
 
 So, was the DPDR that I experienced a result of "incorrect" practice? Of being enmeshed in dehumanizing systems? Of my "trauma" resurfacing in a broken container? All of the above? And with the multiple potential causes in mind, what is my response?
 
-## Backlinks
-
+## Referenced In:
 | File                                                                                   | Summary |
 | -------------------------------------------------------------------------------------- | ------- |
 | [[Readings/2024-01-10 Re-discovering Omnivore\|2024-01-10 Re-discovering Omnivore]] | \-      |
