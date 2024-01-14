@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/posts/perspective-on-counseling-and-contemplation/","tags":["published","type/posts"],"created":"2024-01-12T07:27:54.137-08:00","updated":"2024-01-11T14:28:08.000-08:00"}
+{"dg-publish":true,"permalink":"/posts/perspective-on-counseling-and-contemplation/","tags":["published","type/posts"],"created":"2024-01-12T07:27:54.137-08:00","updated":"2024-01-14T09:40:06.653-08:00"}
 ---
 
 summary:: Limits of current paradigms, the potential of human experience in counseling and cognition research, and hints of how contemplative practices may aid us in this very human journey.
@@ -56,7 +56,7 @@ This blog is to help me work through these ideas, to interrogate the utility of 
 
 ## Footnotes
 [^1]: Wiki entry primer here: [link](https://en.wikipedia.org/wiki/Common_factors_theory)
-[^2]: Sometimes lumped together with 4e: Embodied, Embedded, Enacted, and Extended cognition. 
+[^2]: Sometimes lumped together with [[4e\|4e]]: Embodied, Embedded, Enacted, and Extended cognition. 
 [^3]: such as Bruce Wampold, Scott D. Miller, and Barry L. Duncan
 [^4]: see the article, "[Bruce Wampold on What Actually Makes Us Good Therapists](https://www.psychotherapy.net/interview/bruce-wampold-psychotherapy-effectiveness)" (archive link)
 [^5]: speculation? I must look into it more myself, as I don't think we quite have the technology to scan brains while in active therapy
