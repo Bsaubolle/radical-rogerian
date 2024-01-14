@@ -1,19 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/posts/trauma-self-and-mindfulness/","tags":["to-publish","type/posts"],"created":"2024-01-12T07:27:54.977-08:00","updated":"2024-01-11T22:27:36.377-08:00"}
+{"dg-publish":true,"permalink":"/posts/trauma-self-and-mindfulness/","tags":["type/posts"],"created":"2024-01-12T07:27:54.977-08:00","updated":"2024-01-14T08:54:54.981-08:00"}
 ---
 
 summary:: musings on how the loss of self that occur in traumatic experiences can interact with the Buddhist idea of not- / non-self ([anatta](https://www.blogger.com/u/1/blog/post/edit/7448175482537401591/5695876508634988498#)). 
 ## Trauma, Self, and Mindfulness
 
-> [!quote]
-> _The loss of self is the essence of trauma
-> 	- [Gabor Mate](https://www.blogger.com/u/1/blog/post/edit/7448175482537401591/5695876508634988498#)_ [1]
+> [!aside|right +++++]
+> ==[1]== Yes, I linked to the "Criticism" section of his Wikipedia page. See also [this review](https://www.blogger.com/u/1/blog/post/edit/7448175482537401591/5695876508634988498#) of his film, "The Wisdom of Trauma", especially the following: _"There is then a sequence wherein a man in his early 50’s with a stage 4 prostate cancer diagnosis appears to enter into remission through therapy with Dr Maté with the implied cause of his previously terminal illness being put down to trauma."_
 
-When considering the appropriateness of contemplative practices for therapy, a core issue is one of the **distress and destabilization that can result from these practices.** This is relatively well-known in spiritual circles which prioritize meditative practice; only recently has the clinical literature begun to understand these adverse effects.[2] 
+_The loss of self is the essence of trauma - [Gabor Mate](https://en.wikipedia.org/wiki/Gabor_Mat%C3%A9#Criticism)_ ***[1]***
 
-**The very goals of the contemplative practice may compound and complicate the emotional and psychological issues with which the client is facing.** This post explores the various intersections that can risk our client's psychological stability if we fail to address contemplative experiences appropriately.
+When considering the appropriateness of [[Contemplative Practices\|contemplative practices]] for therapy, a core issue is one of the **distress and destabilization that can result from these practices.** This is relatively well-known in spiritual circles which prioritize meditative practice; only recently has the clinical literature begun to understand these adverse effects.***[2]*** 
+
+> [!aside|right +++++]
+> ==[2]== Willoughby Britton, ["Can Meditation Be Harmful?"](https://www.blogger.com/u/1/blog/post/edit/7448175482537401591/5695876508634988498#) on the FitMind Podcast (YouTube Link)
+
+==The very goals of the contemplative practice may compound and complicate the emotional and psychological issues with which the client is facing.== This post explores the various intersections that can risk our client's psychological stability if we fail to address contemplative experiences appropriately.
 ### The Buddhist Roots of Mindfulness
-**The most popular contemplative practice in therapeutic circles and the research literature is mindfulness.** Mindfulness, however scrubbed and decontextualized it has become, nevertheless has a rich history in several Buddhist meditation traditions. Within these traditions, mindfulness served as a meditative tool to understand the three "[marks of existence](https://www.blogger.com/u/1/blog/post/edit/7448175482537401591/5695876508634988498#)," or aspects of reality that the historical Buddha claimed were the cause of our suffering: Impermanence, Unsatisfactorieness, and Not-Self. 
+**The most popular contemplative practice in therapeutic circles and the  research literature is mindfulness.** Mindfulness, however scrubbed and decontextualized it has become, nevertheless has a rich history in several Buddhist meditation traditions. Within these traditions, mindfulness served as a meditative tool to understand the three "[marks of existence](https://www.blogger.com/u/1/blog/post/edit/7448175482537401591/5695876508634988498#)," or aspects of reality that the historical Buddha claimed were the cause of our suffering: Impermanence, Unsatisfactorieness, and Not-Self. 
 
 A quick caveat: This exploration into Buddhist philosophy is not simply an academic detour; it is vital context to understand exactly how this contemplative practice is supposed to function. In other words, **"the end of suffering" is not a therapeutic aim, it is a claim of salvation in a world which is inherently full of chaos and pain.** However, much intellectual work has been invested into the project of making Buddhism[3] compatible with Western goals and values, including the appropriation of scientific rhetoric to make meditation appear to be a "science of the mind." All that is to say: While there is demonstrable benefits for certain clients in therapy, the full implications of these practices have yet to be fully acknowledged and understood by therapists.
 
@@ -63,7 +67,7 @@ So, when roadblocks like these occur, caution is imperative. Therapeutically, we
 
 If you are interested in learning more about the negative consequences of meditation practice, I highly recommend the researchers Willoughby Britton and Jared Lindahl, both of whom are cited in the footnotes. The videos I've linked are great introductions into their work. Additionally, [Cheetah House](https://www.blogger.com/u/1/blog/post/edit/7448175482537401591/5695876508634988498#) is an excellent resource for supporting meditators currently in distress, as they offer consultation and training services. For the specific intersection of trauma and contemplative practice, one resource (that is on my to-read list) is David Treleavem's [Trauma Sensitive Mindfulness](https://www.blogger.com/u/1/blog/post/edit/7448175482537401591/5695876508634988498#), which is both a podcast and book.
 ## Footnotes
-1. Yes, I linked to the "Criticism" section of his Wikipedia page. See also [this review](https://www.blogger.com/u/1/blog/post/edit/7448175482537401591/5695876508634988498#) of his film, "The Wisdom of Trauma", especially the following: _"There is then a sequence wherein a man in his early 50’s with a stage 4 prostate cancer diagnosis appears to enter into remission through therapy with Dr Maté with the implied cause of his previously terminal illness being put down to trauma."_
+1. 
 2. Willoughby Britton, ["Can Meditation Be Harmful?"](https://www.blogger.com/u/1/blog/post/edit/7448175482537401591/5695876508634988498#) on the FitMind Podcast (YouTube Link)
 3. Really, various Buddhisms, as philosophy and practice look quite different depending on the stream, the sangha, or the vehicle. 
 4. McMahan, D. L. (2008). _The Making of Buddhist Modernism._ Oxford University Press.
