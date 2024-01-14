@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pages/about/","tags":["type/page"],"created":"2024-01-12T07:27:54.705-08:00","updated":"2024-01-12T10:30:52.020-08:00"}
+{"dg-publish":true,"permalink":"/pages/about/","tags":["type/page"],"created":"2024-01-12T07:27:54.705-08:00","updated":"2024-01-13T10:28:59.801-08:00"}
 ---
 
 # About
@@ -42,10 +42,3 @@ But my graduate training in the Humanities, coupled with some DP/DR experiences,
 I owe this blooming perspective to the work of **Matthew O'Connell and the Imperfect Buddha,** as it exposed me to new critiques and conceptions of practice that include the immediate, the social, and the local. 
 ## Integration
 The purpose of this site is to integrate these two domains, as I already act with the understanding that they are intimately connected. Thinking through this integration means considering the ideological, ethical, and practical dimensions of the conversation between [[Posts/Perspective on Counseling and Contemplation\|counseling and contemplation.]]  
-
-## Backlinks
-| File                          | summary |
-| ----------------------------- | ------- |
-| [[Pages/Welcome\|Welcome]] | \-      |
-
-{ .block-language-dataview}
