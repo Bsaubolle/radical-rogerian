@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/readings/2024-01-10-re-discovering-omnivore/","tags":["published","type/posts/readings"],"created":"2024-01-12T07:27:53.625-08:00","updated":"2024-01-15T17:33:33.196-08:00"}
+{"dg-publish":true,"permalink":"/readings/2024-01-10-re-discovering-omnivore/","tags":["published","type/posts/readings"],"created":"2024-01-12T07:27:53.625-08:00","updated":"2024-01-15T18:22:11.818-08:00"}
 ---
 
 ## 2024-01-09: Rediscovering Omnivore
@@ -54,3 +54,9 @@ MeditationStuff is by far the most interesting blog I have encountered. As I was
 > [!quote] Focusing and transformation
 > *Focusing is about becoming; it’s a transformative protocol. You are not static, the territory is not static, and “nearby in reality-space” does not necessarily mean “nearby in word-space.” The territory exists prior to logic, prior to words, prior to understanding, and it’s alive and changing... And **practices like Focusing help you adapt to that territory, when your logical system is starting to fail you,** especially when your logical system fits the territory perrrrfectly, except for this one liiiittle tiny piece, and, in fact, that liiiittle tiny piece contains an entire \*universe\* that structurally dwarfs your entire logical system.*
 
+## Referenced In:
+| File                                                                                             | Summary |
+| ------------------------------------------------------------------------------------------------ | ------- |
+| [[Readings/2024-01-15 Philosophy of Mental Illness\|2024-01-15 Philosophy of Mental Illness]] | \-      |
+
+{ .block-language-dataview}
