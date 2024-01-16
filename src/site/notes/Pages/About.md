@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pages/about/","tags":["type/page"],"created":"2024-01-12T07:27:54.705-08:00","updated":"2024-01-13T10:28:59.801-08:00"}
+{"dg-publish":true,"permalink":"/pages/about/","tags":["type/page"],"created":"2024-01-12T07:27:54.705-08:00","updated":"2024-01-15T21:02:32.591-08:00"}
 ---
 
 # About
@@ -18,7 +18,7 @@ With time, I will create queries (or lists) that will help organize the pages, p
 > [!aside|right +++++]
 > [2] as of 2024-01-12
 
-At the ==bottom of the page,== you currently[2] have an additional view: "Backlinks," which is the primary fuel source for this website. Otherwise known as [[Backlinks\|Backlinking]], this view shows all the posts/readings/concepts that link to the current note. This is a central feature in modern note-taking tools, such as [[Obsidian.md\|Obsidian.md]] (my preferred tool, and how I'm publishing this website). 
+At the ==bottom of the page,== you currently***[2]*** have an additional view: "Backlinks," which is the primary fuel source for this website. Otherwise known as [[Backlinks\|Backlinking]], this view shows all the posts/readings/concepts that link to the current note. This is a central feature in modern note-taking tools, such as [[Obsidian.md\|Obsidian.md]] (my preferred tool, and how I'm publishing this website). 
 
 In the future, I will probably create posts on [[Personal Knowledge Management Systems\|Personal Knowledge Management Systems]], or PKMS. The tools we use really *do* change the ways we think―as in the [[4e\|extended mind thesis]] proposed by cognitive scientists and philosophers of consciousness like [David Chalmers](https://en.wikipedia.org/wiki/David_Chalmers#Philosophy_of_mind). 
 
