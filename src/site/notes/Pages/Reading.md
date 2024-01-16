@@ -6,10 +6,10 @@
 The posts in the Reading folder are monthly overviews of my favorite articles, videos, and books of the month.[^1] 
 
 ## Recent Posts (chronologically)
-| File                                                                                                           | summary |
-| -------------------------------------------------------------------------------------------------------------- | ------- |
-| [[Readings/2024-01-10 Re-discovering Omnivore\|2024-01-10 Re-discovering Omnivore]]                         | \-      |
-| [[Readings/2024-01-11 Mental Illness, Common Factors, and\|2024-01-11 Mental Illness, Common Factors, and]] | \-      |
+| File                                                                                             | summary |
+| ------------------------------------------------------------------------------------------------ | ------- |
+| [[Readings/2024-01-10 Re-discovering Omnivore\|2024-01-10 Re-discovering Omnivore]]           | \-      |
+| [[Readings/2024-01-15 Philosophy of Mental Illness\|2024-01-15 Philosophy of Mental Illness]] | \-      |
 
 { .block-language-dataview}
 
