@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/readings/2024-01-15-philosophy-of-mental-illness/","tags":["type/posts/readings"],"created":"2024-01-12T07:27:54.189-08:00","updated":"2024-01-15T18:11:34.543-08:00"}
+{"dg-publish":true,"permalink":"/readings/2024-01-15-philosophy-of-mental-illness/","tags":["type/posts/readings"],"created":"2024-01-12T07:27:54.189-08:00","updated":"2024-01-15T18:22:28.974-08:00"}
 ---
 
 ## 2024-01-15 Reading Log
@@ -26,3 +26,8 @@ We continue to use the conceptual materials of medical science to categorize, st
 #### [Philosophy of Psychiatry: Philosophical Psychopathology (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/psychiatry/psychopathology.html)
 From the same author for the [Philosophy of Psychiatry](https://plato.stanford.edu/entries/psychiatry/index.html) entry. This is a short supplement, focusing on one approach to thinking about mental illness which utilizes the *"philosophical resources to make the [pathological] experience somewhat less unfathomable, and perhaps clear some ground for an explanation by pointing the way towards the sort of mental processes that would need to be involved."* 
 
+## Referenced In:
+| File | Summary |
+| ---- | ------- |
+
+{ .block-language-dataview}
