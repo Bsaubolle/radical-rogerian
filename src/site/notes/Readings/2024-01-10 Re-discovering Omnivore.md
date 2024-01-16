@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/readings/2024-01-10-re-discovering-omnivore/","tags":["published","type/posts/readings"],"created":"2024-01-12T07:27:53.625-08:00","updated":"2024-01-12T10:04:29.061-08:00"}
+{"dg-publish":true,"permalink":"/readings/2024-01-10-re-discovering-omnivore/","tags":["published","type/posts/readings"],"created":"2024-01-12T07:27:53.625-08:00","updated":"2024-01-15T17:33:33.196-08:00"}
 ---
 
 ## 2024-01-09: Rediscovering Omnivore
@@ -24,6 +24,8 @@ I've been using some of those questions for my own practice, especially: *"What 
 
 #### [Philosophy of Psychiatry | Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/psychiatry/)
 *on [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/)* 
+{ #ba4f03}
+
 
 I've been curious about psychiatry. Mostly, because I know they used to be much more involved in mental health counseling/therapy than they are today—and maybe they still are? Either way, often times I wonder about the assumptions of these professionals: To what extent do they believe that mental illness is "a chemical imbalance in the brain," or some more intellectual-sounding variant of that? How do they conceptualize mental illness at their niche-intersection of physiology and medication? This entry is quite prolific as an introduction into these any many more of the central philosophical questions surrounding the practice of psychiatry.
 
