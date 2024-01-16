@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/posts/trauma-self-and-mindfulness/","tags":["type/posts"],"created":"2024-01-12T07:27:54.977-08:00","updated":"2024-01-14T08:54:54.981-08:00"}
+{"dg-publish":true,"permalink":"/posts/trauma-self-and-mindfulness/","tags":["type/posts"],"created":"2024-01-12T07:27:54.977-08:00","updated":"2024-01-15T18:16:02.475-08:00"}
 ---
 
 summary:: musings on how the loss of self that occur in traumatic experiences can interact with the Buddhist idea of not- / non-self ([anatta](https://www.blogger.com/u/1/blog/post/edit/7448175482537401591/5695876508634988498#)). 
