@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pages/about/","tags":["type/page"],"created":"2024-01-12T07:27:54.705-08:00","updated":"2024-01-15T21:02:32.591-08:00"}
+{"dg-publish":true,"permalink":"/pages/about/","tags":["type/page"],"created":"2024-01-09T11:15:11.870-08:00","updated":"2024-01-17T08:30:58.000-08:00"}
 ---
 
 # About
