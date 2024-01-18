@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pages/about/","tags":["type/page"],"created":"2024-01-09T11:15:11.870-08:00","updated":"2024-01-17T08:30:58.000-08:00"}
+{"dg-publish":true,"permalink":"/pages/about/","tags":["type/page"],"created":"2024-01-09T11:15:11.870-08:00","updated":"2024-01-18T11:49:08.000-08:00"}
 ---
 
 # About
@@ -26,6 +26,10 @@ In the future, I will probably create posts on [[Personal Knowledge Management S
 Unfortunately, if you are viewing the site on mobile, you will miss some *sidenotes* context. Sidenotes are just like Footnotes, except placed in the margin immediately next to the paragraph. Usually, they are trite comments, or fun pictures―you will still be able to read the pages. In some mobile browsers (like Brave), you can toggle to "View Desktop Site." Until I fix this (which I may not be able to), reading it on your laptop or desktop computer is your best bet.
 
 ## Me as a Human
+
+> [!aside|right +++++]
+> ![Headshot.jpg|250](/img/user/00%20Meta/02%20Attachments/Headshot.jpg)
+
 ### Clinician Hat
 I am learning the craft of professional counseling, on my way to licensure in Northern California.  
   
@@ -33,12 +37,12 @@ I have two overlapping specializations: one, for children and teens―especially
   
 The second, and more relevant for this site, is [[Posts/Defining the Radical Rogerian\|my approach as a Radical Rogerian.]] Carl Rogers, the father of modern counseling, laid the foundation of what it means to be an interpersonal healer: **Namely, that the healing relationship requires unconditional positive regard, warmth, empathy, and a relentless desire to understand the worldview of the other.**  
 ### Contemplative Hat
-This approach to counseling is complemented and bolstered by my meditative training. I mostly fall into the **Pragmatic Dharma** camp of **Buddhist Modernism,** as the majority of my practice has been cultivating insight a la Ingram, Burbea, and other wonderful/wild/compassionate teachers.  
+This approach to counseling is complemented and bolstered by my meditative training. As a practitioner, I mostly fall into the [Pragmatic Dharma](https://web.archive.org/web/20150811001451/http://www.buddhistgeeks.com/2011/06/the-core-features-of-pragmatic-dharma/) camp of [Buddhist Modernism,](https://en.wikipedia.org/wiki/Buddhist_modernism) as the majority of my practice has been cultivating insight a la [Ingram](https://www.mctb.org/), [Burbea](https://archive.is/wip/lg3bI), and other wonderful/wild/compassionate teachers.  
   
-But my graduate training in the Humanities, coupled with some DP/DR experiences, somewhat broke my spell of infatuation with attainments and progress toward "A Big Goal" such as Enlightenment or Awakening. As I continue to experience [[Posts/Reflections on Depersonalization-Derealization\|derealization episodes]], practice has shifted and mutated and broadened to much more than simply sitting.  
+But my graduate training in the Humanities, coupled with some DP/DR experiences, somewhat broke my spell of infatuation with attainments and progress toward "A Big Goal" such as Enlightenment or\ Awakening. As I continue to experience [[Posts/Reflections on Depersonalization-Derealization\|derealization episodes]], practice has shifted and mutated and broadened to much more than simply sitting.  
 
-**In fact, I view my clinical work as the next frontier of contemplative development.** 
+***In fact, I view my clinical work as the next frontier of contemplative development.*** 
 
-I owe this blooming perspective to the work of **Matthew O'Connell and the Imperfect Buddha,** as it exposed me to new critiques and conceptions of practice that include the immediate, the social, and the local. 
+I owe this blooming perspective to the work of [Matthew O'Connell and the Imperfect Buddha,](https://thebuddhistcentre.com/news/memory-rob-burbea) as it exposed me to new critiques and conceptions of practice that include the immediate, the social, and the local. 
 ## Integration
 The purpose of this site is to integrate these two domains, as I already act with the understanding that they are intimately connected. Thinking through this integration means considering the ideological, ethical, and practical dimensions of the conversation between [[Posts/Perspective on Counseling and Contemplation\|counseling and contemplation.]]  
