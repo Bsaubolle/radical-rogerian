@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/pages/welcome/","tags":["gardenEntry"],"created":"2024-01-08T14:16:32.460-08:00","updated":"2024-01-17T08:30:58.000-08:00"}
+{"dg-publish":true,"permalink":"/pages/welcome/","tags":["gardenEntry"],"created":"2024-01-08T14:16:32.460-08:00","updated":"2024-01-18T11:52:32.000-08:00"}
 ---
 
 
 > [!aside|left +++]
 > ![pixel-alien-large.jpeg|175](/img/user/00%20Meta/02%20Attachments/pixel-alien-large.jpeg)
 # Welcome
-This [[Index/Digital Garden\|Digital Garden]] is the primary place for me to strand together thoughts on counseling and contemplation in an interdisciplinary (and so very messy) endeavor. Some of the posts will be in development; others will be complete essays. **If you are new, I highly recommend checking the [[Pages/About\|About]] page for more information.** (*disclaimer: there will be some "dead" links—these are posts or pages that I haven't yet published.*)(*disclaimer: there will be some "dead" links—these are posts or pages that I haven't yet published.*)
+This [[Index/Digital Garden\|Digital Garden]] is the primary place for me to strand together thoughts on counseling and contemplation in an interdisciplinary (and so very messy) endeavor. Some of the posts will be in development; others will be complete essays. ***If you are new, I highly recommend checking the [[Pages/Logistics of the Site\|Logistics of the Site]] and [[Pages/About\|About]] pages for more information.*** *There will be some "dead" links—these are posts or pages that I haven't yet published.*
 
 Otherwise, jump into my [[Pages/Reading\|current readings]], or check out some [[Pages/Posts\|recent posts]]. 
 
