@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/posts/trauma-self-and-mindfulness/","tags":["type/posts","format"],"created":"2024-01-08T14:02:22.250-08:00","updated":"2024-01-18T10:25:14.000-08:00"}
+{"dg-publish":true,"permalink":"/posts/trauma-self-and-mindfulness/","tags":["type/posts"],"created":"2024-01-08T14:02:22.250-08:00","updated":"2024-01-18T10:26:08.000-08:00"}
 ---
 
 > [!aside|right +++++]
