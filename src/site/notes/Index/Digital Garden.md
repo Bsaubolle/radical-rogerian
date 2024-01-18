@@ -6,7 +6,8 @@
 *note in progress*
 
 ## Referenced In:
-| File | summary |
-| ---- | ------- |
+| File                          | summary |
+| ----------------------------- | ------- |
+| [[Pages/Welcome\|Welcome]] | \-      |
 
 { .block-language-dataview}
