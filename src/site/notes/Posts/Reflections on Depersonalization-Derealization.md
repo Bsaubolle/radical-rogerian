@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/posts/reflections-on-depersonalization-derealization/","tags":["published","type/posts"],"created":"2024-01-08T14:13:04.060-08:00","updated":"2024-01-15T18:19:22.066-08:00"}
+{"dg-publish":true,"permalink":"/posts/reflections-on-depersonalization-derealization/","tags":["published","type/posts"],"created":"2024-01-08T14:13:04.060-08:00","updated":"2024-01-17T08:30:58.000-08:00"}
 ---
 
 > [!aside|right +++++]
@@ -64,9 +64,10 @@ There is so much more to this story, and yet it's important for my past self tha
 So, was the DPDR that I experienced a result of "incorrect" practice? Of being enmeshed in dehumanizing systems? Of my "trauma" resurfacing in a broken container? All of the above? And with the multiple potential causes in mind, what is my response?
 
 ## Referenced In:
-| File                                                                                   | Summary |
-| -------------------------------------------------------------------------------------- | ------- |
-| [[Readings/2024-01-10 Re-discovering Omnivore\|2024-01-10 Re-discovering Omnivore]] | \-      |
-| [[Pages/About\|About]]                                                              | \-      |
+| File                                                                                   | Summary                                                                                                                                                                                                                     |
+| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Posts/Trauma, Self, and Mindfulness\|Trauma, Self, and Mindfulness]]              | musings on how the loss of self that occur in traumatic experiences can interact with the Buddhist idea of not- / non-self ([anatta](https://www.blogger.com/u/1/blog/post/edit/7448175482537401591/5695876508634988498#)). |
+| [[Readings/2024-01-10 Re-discovering Omnivore\|2024-01-10 Re-discovering Omnivore]] | \-                                                                                                                                                                                                                          |
+| [[Pages/About\|About]]                                                              | \-                                                                                                                                                                                                                          |
 
 { .block-language-dataview}
