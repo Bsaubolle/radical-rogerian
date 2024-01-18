@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/posts/perspective-on-counseling-and-contemplation/","tags":["published","type/posts"],"created":"2024-01-10T07:53:58.300-08:00","updated":"2024-01-15T18:16:11.399-08:00"}
+{"dg-publish":true,"permalink":"/posts/perspective-on-counseling-and-contemplation/","tags":["published","type/posts","format"],"created":"2024-01-10T07:53:58.300-08:00","updated":"2024-01-18T08:37:14.000-08:00"}
 ---
 
 summary:: Limits of current paradigms, the potential of human experience in counseling and cognition research, and hints of how contemplative practices may aid us in this very human journey.
