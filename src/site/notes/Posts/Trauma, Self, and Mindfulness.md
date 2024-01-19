@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/posts/trauma-self-and-mindfulness/","tags":["type/posts"],"created":"2024-01-08T14:02:22.250-08:00","updated":"2024-01-18T10:26:08.000-08:00"}
+{"dg-publish":true,"permalink":"/posts/trauma-self-and-mindfulness/","tags":["type/posts"],"created":"2024-01-12T07:27:54.977-08:00","updated":"2024-01-19T09:14:20.100-08:00"}
 ---
 
 > [!aside|right +++++]
@@ -18,7 +18,7 @@ So: When considering the appropriateness of [[Contemplative Practices\|contempla
 The relationship between contemplative practice and psychotherapeutic healing *can be symbiotic, but it can just as easily be contradicting and contraindicated depending on the conditions of the client and their life.* In other words, ==the ([soteriological](https://en.wikipedia.org/wiki/Soteriology)) goals/aims/realizations of any given contemplative practice may compound and complicate the emotional and psychological issues with which the client is facing.== This post explores the various intersections that can risk our client's psychological stability if we fail to address contemplative experiences appropriately. Specifically, this post focuses on how practice can intersect with traumatic materials.
 ### The Buddhist Roots of Therapeutic Mindfulness
 > [!aside|right +++++]
-> ==[2]== Yes, I linked to the "Criticism" section of his Wiki. For a taste, see [this review](https://www.blogger.com/u/1/blog/post/edit/7448175482537401591/5695876508634988498#) of his film, especially: _"There is then a sequence wherein a man in his early 50’s with a stage 4 prostate cancer diagnosis appears to enter into remission through therapy with Dr Maté, with the implied cause of his previously terminal illness being put down to trauma."
+> ==[2]== Yes, I linked to the "Criticism" section of his Wiki. For a taste, see [this review](https://www.brightonandhovepsychotherapy.com/blog/the-wisdom-of-trauma-a-film-by-gabor-mate-a-critical-review/) of his film, especially: _"There is then a sequence wherein a man in his early 50’s with a stage 4 prostate cancer diagnosis appears to enter into remission through therapy with Dr Maté, with the implied cause of his previously terminal illness being put down to trauma."
 
 > [!quote] From [Gabor Mate](https://en.wikipedia.org/wiki/Gabor_Mat%C3%A9#Criticism) ***[2]***
 > *The loss of self is the essence of trauma* 
