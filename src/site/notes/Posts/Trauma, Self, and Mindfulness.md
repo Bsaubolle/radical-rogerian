@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/posts/trauma-self-and-mindfulness/","tags":["type/posts"],"created":"2024-01-12T07:27:54.977-08:00","updated":"2024-01-19T09:14:20.100-08:00"}
+{"dg-publish":true,"permalink":"/posts/trauma-self-and-mindfulness/","tags":["type/posts"],"created":"2024-01-12T07:27:54.977-08:00","updated":"2024-01-19T09:17:54.284-08:00"}
 ---
 
 > [!aside|right +++++]
@@ -103,7 +103,7 @@ As a both a clinician and researcher, ***I believe our profession is currently 
 
 So, when roadblocks like these occur, caution is imperative. Therapeutically, we are still learning about the road ahead of these meditative experiences, how it twists and turns, about its speed bumps and potholes.
 
-If you are interested in learning more about the negative consequences of meditation practice, I highly recommend the researchers Willoughby Britton and Jared Lindahl, both of whom are cited in the footnotes. The videos I've linked are great introductions into their work. Additionally, [Cheetah House](https://www.blogger.com/u/1/blog/post/edit/7448175482537401591/5695876508634988498#) is an excellent resource for supporting meditators currently in distress, as they offer consultation and training services. For the specific intersection of trauma and contemplative practice, one resource (that is on my to-read list) is David Treleavem's [Trauma Sensitive Mindfulness](https://www.blogger.com/u/1/blog/post/edit/7448175482537401591/5695876508634988498#), which is both a podcast and book.
+If you are interested in learning more about the negative consequences of meditation practice, I highly recommend the researchers Willoughby Britton and Jared Lindahl, both of whom are cited in the footnotes. The videos I've linked are great introductions into their work. Additionally, [Cheetah House](https://www.cheetahhouse.org/) is an excellent resource for supporting meditators currently in distress, as they offer consultation and training services. For the specific intersection of trauma and contemplative practice, one resource (that is on my to-read list) is David Treleavem's [Trauma Sensitive Mindfulness](https://davidtreleaven.com/), which is both a podcast and book.
 
 ## Referenced In:
 | File | Summary |
