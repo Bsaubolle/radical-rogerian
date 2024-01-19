@@ -1,6 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/posts/the-talking-cure-of-floating-brains/","tags":["type/posts","format"],"created":"2024-01-12T07:27:55.541-08:00","updated":"2024-01-18T08:37:30.000-08:00"}
+{"dg-publish":true,"permalink":"/posts/the-talking-cure-of-floating-brains/","tags":["type/posts","format"],"created":"2024-01-12T07:27:55.541-08:00","updated":"2024-01-19T11:01:41.170-08:00"}
 ---
+
+> [!aside|right +++++]
+> ![floating-brains-therapy.jpeg|250](/img/user/00%20Meta/02%20Attachments/floating-brains-therapy.jpeg)
 
 summary:: _What is the place of citing neuroscience for professional counselors and therapists? Does it truly represent what we do, or is it just the zeitgeist to say how X changes your brain in Y ways?_ Prompted by diving deep into a tiny fraction of a great book, Benjamin E. Caldwell's *Saving Psychotherapy.*
 ## The Talking Cure of Floating Brains
@@ -22,9 +25,7 @@ Caldwell organizes his text around "Tasks," which are general reforms that he th
 
 **_"How and why it works"_**―a bold statement indeed. He goes on to give examples of how neuroscience proves that psychotherapy "works." Such an example includes labeling emotions, which _"appears to increase activation in the prefrontal cortex, thereby regulating emotional activation in the amygdala"_ (128). Rather than the meaning of the label, the understanding of emotion in the context of another human, what is actually responsible for the change of the entire human-in-the-world is, in fact, the change in brain activity. Or, perhaps closer to this argument, the meaning and change is actually just the blood flow[1] and neuronal activity in the individual brain. **Truly, this section on neuroscience as the therapist's most powerful proof of change is simply a retelling (regurgitating?) of brain regions that are activated or altered in the process and outcomes of therapy.**
 
-We can call this argument reductionistic, in that it reduces the process of psychotherapy to activated brain regions. By extension, it reduces therapy to tampering with neural circuits in such a way that promotes healing. **If we just knew what brain regions needed "healing," we could direct therapy that is "proven" to work on "those circuits."** By emphatically saying that neuroscience "overwhelmingly" proves how and why psychotherapy works, **the entire individual, interpersonal, social, behavioral, and cultural process of healing is reduced to decontextualized brain activity.** Yet appealing to neurobiology is not the lynchpin in explaining why therapy works. Rather, it offers one explanation of what is happening in the brain in the context of therapy.
-
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6HHNcW7zowQ08PAcDMUgYbpBChZYLNOs9MniGpUZnjXz7O3w1nTdBkODGBmXM976HLHufe7HV1in2R0lLMOCIu6eC2beFQPeWOa_QbpeR5HW86l1rQ052R6CpNwxmUccLQvEH5qWM6AM6618SA_YltlqGJgovqnH0p36Eqgu-NFaGPqO2AshZ-196nCLd/w640-h640/_floating-brains-therapy.jpeg)](https://www.blogger.com/u/1/blog/post/edit/7448175482537401591/8822804095598739784#)
+We can call this argument reductionistic, in that it reduces the process of psychotherapy to activated brain regions. By extension, it reduces therapy to tampering with neural circuits in such a way that promotes healing. **If we just knew what brain regions needed "healing," we could direct therapy that is "proven" to work on "those circuits."** By emphatically saying that neuroscience "overwhelmingly" proves how and why psychotherapy works, **the entire individual, interpersonal, social, behavioral, and cultural process of healing is reduced to decontextualized brain activity.** Yet appealing to neurobiology is not the lynchpin in explaining why therapy works. Rather, it offers one explanation of what ishappening in the brain in the context of therapy.
 ### The many levels of explaining things
 The desire to prove therapy's efficacy with an appeal to neuroscience is not unique to our field. This issue similarly plagues the research into meditation and contemplative practices, especially as they impact our wellbeing. Between both fields, the tendency is to collapse or reduce a complex phenomenon into a single, unifying level of explanation. At the moment, the fascinating yet nascent technology of brain imaging is given a preeminent status in our culture, and so serves that unifying explanatory function.
 
