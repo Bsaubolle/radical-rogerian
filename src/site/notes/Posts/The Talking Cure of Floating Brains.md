@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/posts/the-talking-cure-of-floating-brains/","tags":["type/posts","format"],"created":"2024-01-12T07:27:55.541-08:00","updated":"2024-01-19T11:01:41.170-08:00"}
+{"dg-publish":true,"permalink":"/posts/the-talking-cure-of-floating-brains/","tags":["type/posts","format"],"created":"2024-01-12T07:27:55.541-08:00","updated":"2024-01-19T12:25:31.073-08:00"}
 ---
 
 > [!aside|right +++++]
-> ![floating-brains-therapy.jpeg|250](/img/user/00%20Meta/02%20Attachments/floating-brains-therapy.jpeg)
+> ![floating-brains-therapy.jpeg|400](/img/user/00%20Meta/02%20Attachments/floating-brains-therapy.jpeg)
 
 summary:: _What is the place of citing neuroscience for professional counselors and therapists? Does it truly represent what we do, or is it just the zeitgeist to say how X changes your brain in Y ways?_ Prompted by diving deep into a tiny fraction of a great book, Benjamin E. Caldwell's *Saving Psychotherapy.*
 ## The Talking Cure of Floating Brains
