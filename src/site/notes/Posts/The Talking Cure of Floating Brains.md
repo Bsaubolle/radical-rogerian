@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/posts/the-talking-cure-of-floating-brains/","tags":["type/posts","format"],"created":"2024-01-12T07:27:55.541-08:00","updated":"2024-01-19T12:25:31.073-08:00"}
+{"dg-publish":true,"permalink":"/posts/the-talking-cure-of-floating-brains/","tags":["type/posts","format"],"created":"2024-01-08T14:01:21.270-08:00","updated":"2024-01-19T12:25:31.073-08:00"}
 ---
 
 > [!aside|right +++++]
