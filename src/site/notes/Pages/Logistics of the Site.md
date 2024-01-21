@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pages/logistics-of-the-site/","tags":["type/page"],"created":"2024-01-19T08:26:48.304-08:00","updated":"2024-01-18T11:51:10.000-08:00"}
+{"dg-publish":true,"permalink":"/pages/logistics-of-the-site/","tags":["type/page"],"created":"2024-01-18T11:49:24.870-08:00","updated":"2024-01-18T11:51:10.000-08:00"}
 ---
 
 # Logistics of the Site
