@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/readings/2024-01-15-philosophy-of-mental-illness/","tags":["type/posts/readings"],"created":"2024-01-12T07:27:54.180-08:00","updated":"2024-01-15T18:22:30.000-08:00"}
+{"dg-publish":true,"permalink":"/readings/2024-01-15-philosophy-of-mental-illness/","tags":["type/posts/readings"],"created":"2024-01-12T07:27:54.189-08:00","updated":"2024-01-15T18:22:28.974-08:00"}
 ---
 
 ## 2024-01-15 Reading Log
