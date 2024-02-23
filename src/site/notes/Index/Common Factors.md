@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/common-factors/","tags":["type/index","rough"],"created":"2024-01-11T14:25:02.020-08:00","updated":"2024-01-17T08:30:52.000-08:00"}
+{"dg-publish":true,"permalink":"/index/common-factors/","tags":["type/index","rough"],"created":"2024-01-12T07:27:54.353-08:00","updated":"2024-01-12T08:34:53.463-08:00"}
 ---
 
 ## Definition
