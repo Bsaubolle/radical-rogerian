@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/posts/reflections-on-depersonalization-derealization/","tags":["published","type/posts"],"created":"2024-01-08T14:13:04.060-08:00","updated":"2024-01-23T13:18:54.000-08:00"}
+{"dg-publish":true,"permalink":"/posts/reflections-on-depersonalization-derealization/","tags":["published","type/posts"],"created":"2024-01-12T07:27:53.933-08:00","updated":"2024-01-23T13:18:54.000-08:00"}
 ---
 
 > [!aside|right +++++]
